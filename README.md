@@ -12,14 +12,14 @@ Este proyecto es una aplicación de escritorio desarrollada en Python que utiliz
     2.  Un **gráfico de convergencia** que muestra cómo mejora la solución a lo largo de las generaciones.
 
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Lenguaje:** Python 3
 - **Librerías:**
     - **Tkinter:** Para la interfaz gráfica de usuario (GUI).
     - **Matplotlib:** Para la generación de gráficos y visualizaciones de datos.
 
-## 🚀 Instalación y Uso
+## Instalación y Uso
 
 Sigue estos pasos para ejecutar el proyecto en tu máquina local.
 
